@@ -1,6 +1,6 @@
 # COMP3015C2
 # submission for CW2
-This project contains a simple game, which requires gamers to cross two trees by operating a terrible spaceship. In this project, two techniques are used, namely shadow map and animation based on particle system.
+This project contains a simple game, which requires gamers to cross two trees by operating a spaceship. In this project, two techniques are used, namely shadow map and animation based on particle system.
 
 ## Usage
 Simply run the exe file in ./bin/Project_Template.exe, my working environment is Win 10 with VS 2022 and OpenGL 4.6
